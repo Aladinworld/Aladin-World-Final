@@ -17,7 +17,7 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 4.5rem;
+  font-size: 3.75rem;
   letter-spacing: 2px;
   font-family: "Advent Pro";
   text-transform: uppercase;
@@ -69,10 +69,6 @@
     width: 433px;
     margin-top: 354px;
     margin-bottom: 60px;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-size: 3.75rem;
   }
 }
 
