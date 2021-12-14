@@ -27,13 +27,8 @@
 
 .u-section-1 .u-text-2 {
   line-height: 2;
-  margin: 8px 331px 0 167px;
-}
-
-.u-section-1 .u-btn-1 {
-  background-image: none;
   font-size: 1.875rem;
-  padding: 0;
+  margin: 8px 331px 0 167px;
 }
 
 @media (max-width: 1199px) {
@@ -60,7 +55,6 @@
     margin-top: -289px;
     margin-right: 19px;
     margin-left: 20px;
-    font-size: 1.25rem;
     width: 802px;
   }
 }
@@ -143,10 +137,6 @@
     width: auto;
     font-size: 0.9375rem;
     margin: 15px 30px -8px;
-  }
-
-  .u-section-1 .u-btn-1 {
-    font-size: 1.25rem;
   }
 } .u-section-2 {
   background-image: linear-gradient(#35197b, #312933);
